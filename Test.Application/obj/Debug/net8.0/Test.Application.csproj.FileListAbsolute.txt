@@ -1,0 +1,15 @@
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\bin\Debug\net8.0\Test.Application.deps.json
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\bin\Debug\net8.0\Test.Application.dll
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\bin\Debug\net8.0\Test.Application.pdb
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\bin\Debug\net8.0\Test.Domain.dll
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\bin\Debug\net8.0\Test.Domain.pdb
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\obj\Debug\net8.0\Test.Application.csproj.AssemblyReference.cache
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\obj\Debug\net8.0\Test.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\obj\Debug\net8.0\Test.Application.AssemblyInfoInputs.cache
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\obj\Debug\net8.0\Test.Application.AssemblyInfo.cs
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\obj\Debug\net8.0\Test.Application.csproj.CoreCompileInputs.cache
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\obj\Debug\net8.0\Test.App.60018A54.Up2Date
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\obj\Debug\net8.0\Test.Application.dll
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\obj\Debug\net8.0\refint\Test.Application.dll
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\obj\Debug\net8.0\Test.Application.pdb
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\obj\Debug\net8.0\ref\Test.Application.dll

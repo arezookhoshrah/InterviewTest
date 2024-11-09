@@ -1,0 +1,61 @@
+syntax = "proto3";
+
+option csharp_namespace = "Test.Grpc.Protos";
+
+service TestProtoService
+{
+	rpc GetAll(Empty) returns(GetAllResponse);
+	rpc Get(GetRequest) returns (GetAllResponse);
+	rpc GetById(GetByIdRequest) returns (MemberModel);
+	rpc Create(CreateRequest) returns (MemberModel);
+	rpc Update(UpdateRequest) returns (DeleteOrUpdateResponse);
+	rpc Delete(DeleteRequest) returns (DeleteOrUpdateResponse);
+	rpc DeleteById(GetByIdRequest) returns (DeleteOrUpdateResponse);
+}
+
+message GetRequest
+{
+	string predicate=1;
+}
+
+message GetAllResponse
+{
+	repeated MemberModel items =1;
+}
+message MemberModel
+{
+	int32 Id=1;
+	string name=2 ;
+	string family=3;
+	string nationalCode=4;
+	string birthDate=5;
+}
+
+message CreateRequest
+{
+	MemberModel member=1;
+}
+
+message GetByIdRequest
+{
+	int32 Id=1;
+}
+
+message UpdateRequest
+{
+	MemberModel member=1;
+}
+
+message DeleteRequest
+{
+	MemberModel member=1;
+}
+
+message DeleteOrUpdateResponse
+{
+	bool success = 1;
+}
+
+message Empty{
+
+}
