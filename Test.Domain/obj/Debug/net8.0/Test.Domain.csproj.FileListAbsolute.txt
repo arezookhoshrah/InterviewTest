@@ -9,3 +9,4 @@ C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Domain\obj\Debug
 C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Domain\obj\Debug\net8.0\refint\Test.Domain.dll
 C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Domain\obj\Debug\net8.0\Test.Domain.pdb
 C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Domain\obj\Debug\net8.0\ref\Test.Domain.dll
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Domain\obj\Debug\net8.0\Test.Domain.sourcelink.json

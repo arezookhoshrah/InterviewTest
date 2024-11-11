@@ -13,3 +13,4 @@ C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\obj\
 C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\obj\Debug\net8.0\refint\Test.Application.dll
 C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\obj\Debug\net8.0\Test.Application.pdb
 C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\obj\Debug\net8.0\ref\Test.Application.dll
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Application\obj\Debug\net8.0\Test.Application.sourcelink.json

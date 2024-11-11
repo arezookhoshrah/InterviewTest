@@ -17,3 +17,4 @@ C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Infrastructure\o
 C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Infrastructure\obj\Debug\net8.0\Test.Infrastructure.pdb
 C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Infrastructure\obj\Debug\net8.0\Test.Infrastructure.genruntimeconfig.cache
 C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Infrastructure\obj\Debug\net8.0\ref\Test.Infrastructure.dll
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Infrastructure\obj\Debug\net8.0\Test.Infrastructure.sourcelink.json

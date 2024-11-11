@@ -1,3 +1,4 @@
+using Google.Protobuf.WellKnownTypes;
 using Test.Grpc.Interceptors;
 using Test.Grpc.Services;
 using Test.Infrastructure;
@@ -8,12 +9,16 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddGrpc();
 
+var serviceProvider = builder.Services.BuildServiceProvider();
+var logger = serviceProvider.GetService<ILogger<ServerLoggerInterceptor>>();
+builder.Services.AddSingleton(typeof(ILogger),logger);
+
 builder.Services.AddGrpc(options =>
 {
     options.Interceptors.Add<ServerLoggerInterceptor>();
 });
 
-builder.Services.AddSingleton<ServerLoggerInterceptor>();
+//builder.Services.AddSingleton<ServerLoggerInterceptor>();
 
 builder.Services.AddInfrastructureServices(builder.Configuration);
 

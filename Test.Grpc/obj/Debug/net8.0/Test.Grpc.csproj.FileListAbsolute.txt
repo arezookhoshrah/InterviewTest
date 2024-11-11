@@ -155,3 +155,4 @@ C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Grpc\bin\Debug\n
 C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Grpc\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
 C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Grpc\bin\Debug\net8.0\Microsoft.Extensions.Logging.Configuration.dll
 C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Grpc\bin\Debug\net8.0\Microsoft.Extensions.Logging.Console.dll
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Test.Grpc\obj\Debug\net8.0\Test.Grpc.sourcelink.json
