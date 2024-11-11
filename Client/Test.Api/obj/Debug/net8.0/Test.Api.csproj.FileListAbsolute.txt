@@ -42,3 +42,4 @@ C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Client\Test.Api\bin\D
 C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Client\Test.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Client\Test.Api\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Client\Test.Api\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\arezookhoshrah\source\repos\InterviewTestSolution\Client\Test.Api\obj\Debug\net8.0\Test.Api.sourcelink.json

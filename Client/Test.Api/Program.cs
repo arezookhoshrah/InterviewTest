@@ -11,12 +11,12 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-//builder.Services
-//    .AddGrpcClient<TestProtoService.TestProtoServiceClient>(o =>
-//    {
-//        o.Address = new Uri(builder.Configuration.GetValue<string>("GrpcSettings:MemberServiceUrl"));
-//    })
-//    .AddInterceptor<ClientLoggingInterceptor>();
+builder.Services
+    .AddGrpcClient<TestProtoService.TestProtoServiceClient>(o =>
+    {
+        o.Address = new Uri(builder.Configuration.GetValue<string>("GrpcSettings:MemberServiceUrl"));
+    })
+    .AddInterceptor<ClientLoggingInterceptor>();
 
 var app = builder.Build();
 
